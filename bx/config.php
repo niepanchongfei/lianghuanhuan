@@ -4,4 +4,5 @@
 	define('DB_PWD','root');
 	define('DB_NAME','db_baixiu');
 	//sjjsja
+	//sadasd
 ?>
